@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To access to the website visite [this link](https://suufiaane13.github.io/fruit-react/).
 
 ## Available Scripts
 
